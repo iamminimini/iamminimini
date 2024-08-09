@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 
 <!--
 **iamminimini/iamminimini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,11 +72,5 @@ const chaeeun = {
 }
 ```
 
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamminimini&layout=compact&theme=omni&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
-![Boram Jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamminimini&show_icons=true&theme=omni)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 
